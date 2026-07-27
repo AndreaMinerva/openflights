@@ -5991,7 +5991,7 @@
 19280,"Sunrise Airways","","","KSZ","","Haiti","Y"
 19287,"National Air Cargo","","N8","NCR","","United States","Y"
 19290,"Eastern Atlantic Virtual Airlines","","13","EAV","EAVA","United States","Y"
-19305,"Citilink Indonesia","","QG",\N,"SUPERGREEN","Indonesia","Y"
+19305,"Citilink Indonesia","","QG","CTV","SUPERGREEN","Indonesia","Y"
 19317,"Gulisano airways","","GU","GU1","","Italy","N"
 19337,"Transair","","","TTZ","","Canada","Y"
 19350,"Comfort Express Virtual Charters Albany","","","EVC","Comfort Express","United States","Y"
@@ -6160,3 +6160,4 @@
 21268,"Jetgo Australia","","JG",\N,"","Australia","Y"
 21270,"Air Carnival","","2S",\N,"","India","Y"
 21317,"Svyaz Rossiya","Russian Commuter ","7R","SJM","RussianConnecty","Russia","Y"
+21318,"Batik Air","","ID","BTK","BATIK","","Indonesia","Y"
